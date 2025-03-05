@@ -80,7 +80,7 @@ body {
 .settings__close {
     width: 60px;
     height: 66px;
-    background-image: url(images/Close_button.svg);
+    background-image: url(Close_button.svg);
     background-color: transparent;
     border: none;
 
